@@ -1,1 +1,1 @@
-# MachineLearningAlgorithms
+# MachineLearning-Python
